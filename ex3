@@ -1,0 +1,13 @@
+A)
+R: Na linha 6 - "55". 
+Na linha 7 - "endereço de variável de num". 
+Na linha 8 - "55".
+
+B)
+1- E
+2- C
+3- B e D também são válidas. Na B, a variável i recebe o valor do ponteiro pti. Na D, somente é declarado uma 
+variável pti.
+
+C)
+R: A alternativa 5 está incorreta.
